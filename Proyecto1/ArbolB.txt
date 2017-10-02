@@ -1,0 +1,5 @@
+digraph G{
+node [shape = record];
+rankdir = TD;
+activo_7811710111897 [label= "<r0> | <cl1>IdArbol: 7811710111897 &#92;nDato: Nueva | <r1> | <cl2>IdArbol: 781171011189751 &#92;nDato: Nueva3 | <r2> | <cl3>IdArbol: 7811710111897679711411210111697 &#92;nDato: NuevaCarpeta | <r3> "];
+}

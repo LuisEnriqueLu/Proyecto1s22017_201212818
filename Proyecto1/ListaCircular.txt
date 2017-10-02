@@ -1,0 +1,10 @@
+digraph G{
+node [shape = record];
+rankdir = LR;
+Luis_nodo_0 [label=Luis]
+Enrique_nodo_1 [label=Enrique]
+Luis_nodo_0->Enrique_nodo_1
+Enrique_nodo_1->Luis_nodo_0
+Luis_nodo_0->Enrique_nodo_1
+Enrique_nodo_1->Luis_nodo_0
+}
